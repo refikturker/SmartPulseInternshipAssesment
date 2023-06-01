@@ -1,0 +1,17 @@
+/Users/refikturker/SmartPulse/bin/Debug/net7.0/SmartPulse
+/Users/refikturker/SmartPulse/bin/Debug/net7.0/SmartPulse.deps.json
+/Users/refikturker/SmartPulse/bin/Debug/net7.0/SmartPulse.runtimeconfig.json
+/Users/refikturker/SmartPulse/bin/Debug/net7.0/SmartPulse.dll
+/Users/refikturker/SmartPulse/bin/Debug/net7.0/SmartPulse.pdb
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.csproj.AssemblyReference.cache
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.AssemblyInfoInputs.cache
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.AssemblyInfo.cs
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.csproj.CoreCompileInputs.cache
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.dll
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/refint/SmartPulse.dll
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.pdb
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.genruntimeconfig.cache
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/ref/SmartPulse.dll
+/Users/refikturker/SmartPulse/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/refikturker/SmartPulse/obj/Debug/net7.0/SmartPulse.csproj.CopyComplete
